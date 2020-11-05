@@ -24,7 +24,7 @@
        "quantity":1,
        "specific_part":10001,
        "item_unit_cost":"0.3400"
-    }s
+    }
  },
  {
     "model":"core.bomitem",
